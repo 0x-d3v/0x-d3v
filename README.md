@@ -1,16 +1,23 @@
-## Hi there 👋
+# ⚡ 0x-d3v
 
-<!--
-**0x-d3v/0x-d3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> whoami
+Security Engineer | Software Engineer 
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+[+] Breaking systems to make them stronger </br>
+[+] Building secure, scalable software </br>
+[+] Focus: Red Teaming | Offensive Security </br>
+[+] Mindset: Think offensive. Build defensive. </br>
+
+---
+
+## ☠️ Motto
+
+```bash
+echo "Nothing is secure - only less vulnerable"
+```
