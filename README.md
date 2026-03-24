@@ -7,7 +7,6 @@
 Security Engineer | Software Engineer 
 ```
 
----
 
 ## 🧠 About Me
 
@@ -16,7 +15,7 @@ Security Engineer | Software Engineer
 [+] Focus: Red Teaming | Offensive Security </br>
 [+] Mindset: Think offensive. Build defensive. </br>
 
----
+
 
 ## ☠️ Motto
 
