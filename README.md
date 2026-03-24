@@ -1,3 +1,5 @@
+![samurai-gif](/samurai.gif)
+
 # ⚡ 0x-d3v
 
 ```bash
